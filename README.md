@@ -43,5 +43,4 @@
 - `schedule_model.py`: Определение модели.
 - `schedule_validator.py`: Проверка расписания на соответствие правилам.
 - `constants.py`: Константы проекта.
-- `shift_scheduler_model.pth`: Сохраненная обученная модель.
 - `schedule.csv`: Сгенерированное расписание.

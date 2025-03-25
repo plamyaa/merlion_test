@@ -1,6 +1,6 @@
 import numpy as np
 from typing import Dict
-from constants import (
+from .constants import (
     NUM_DAYS,
     SHIFT_EVENING,
     SHIFT_MORNING,

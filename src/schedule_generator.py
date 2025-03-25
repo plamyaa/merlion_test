@@ -1,6 +1,6 @@
 import numpy as np
 from typing import Optional
-from constants import NUM_EMPLOYEES, NUM_DAYS
+from .constants import NUM_EMPLOYEES, NUM_DAYS
 
 
 class ScheduleGenerator:

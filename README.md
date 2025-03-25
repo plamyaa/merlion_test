@@ -27,6 +27,7 @@
 ![Пример работы](images/example_of_work.png)
 
 Пример сгенерированных данных:
+
 ![Пример сгенерированных данных](images/predicted_data.png)
 
 ---
@@ -39,7 +40,7 @@
    pip install -r requirements.txt
    ```
 
-2. Запуск проекта:
+2. Запустите проекта:
    ```bash
    python3 main.py
    ```
